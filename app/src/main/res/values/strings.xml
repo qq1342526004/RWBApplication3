@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">程序3</string>
+    <string name="tv_vsnCode">vsn码</string>
+    <string name="tvbutton_save">保存</string>
+    <string name="tvbutton_chayibiao">差异表</string>
+    <string name="tv_spsRoute">配送路线</string>
+    <string name="tv_spsPSJID">配送架ID</string>
+    <string name="response_error">网络连接出错!</string>
+    <string name="loading">加载中...</string>
+    <string name="login_isEmpty">用户名或密码或IP不能为空</string>
+    <string name="handle_success">操作成功</string>
+    <string name="handle_failed">操作失败</string>
+    <string name="data_isempty">数据为空!</string>
+    <string name="add_success">数据添加成功!</string>
+</resources>

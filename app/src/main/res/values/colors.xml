@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg_blue">#327ac9</color>
+    <color name="tabelRow_bg">#EAEAEA</color>
+    <color name="oddNumber_bg">#96c4e6</color>
+    <color name="evenNumber_bg">#c7e1f0</color>
+    <color name="bg_white">#fff</color>
+    <color name="table_bg">#194d5b</color>
+</resources>
